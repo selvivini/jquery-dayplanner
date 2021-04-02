@@ -1,5 +1,6 @@
 ## HomeWork Assignment
 ### Day-planner
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Using jquery build a day- planner application that helps the user to manage the 
 appointments for a day from 9am to 5 pm.
 The application uses the localstorage to set and retrieve the appointments.
